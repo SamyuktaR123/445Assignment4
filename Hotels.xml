@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels xmlns="http://tempuri.org/XMLSchema.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://tempuri.org/XMLSchema.xsd Hotels.xsd">
+	
+	<Hotel Rating="4.2">
+		<Name>Westin Tempe</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.0">
+		<Name>Hilton Downtown</Name>
+		<Phone>312-555-1234</Phone>
+		<Address NearestAirport="O' Hare">
+			<Number>100</Number>
+			<Street>Wacker Drive</Street>
+			<City>Chicago</City>
+			<State>IL</State>
+			<Zip>60606</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.8">
+		<Name>Marriott Marquis</Name>
+		<Phone>212-555-9876</Phone>
+		<Phone>212-555-8765</Phone>
+		<Address>
+			<Number>200</Number>
+			<Street>Madison Avenue</Street>
+			<City>New York</City>
+			<State>NY</State>
+			<Zip>10010</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.5">
+		<Name>Ritz Carlton</Name>
+		<Phone>305-555-4321</Phone>
+		<Address NearestAirport="Miami Intl">
+			<Number>300</Number>
+			<Street>Ocean Drive</Street>
+			<City>Miami</City>
+			<State>FL</State>
+			<Zip>33139</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.1">
+		<Name>Hyatt Regency</Name>
+		<Phone>415-555-2468</Phone>
+		<Address NearestAirport="SFO">
+			<Number>400</Number>
+			<Street>Market Street</Street>
+			<City>San Francisco</City>
+			<State>CA</State>
+			<Zip>94103</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.9">
+		<Name>DoubleTree Hotel</Name>
+		<Phone>617-555-7892</Phone>
+		<Phone>617-555-3746</Phone>
+		<Address>
+			<Number>500</Number>
+			<Street>Beacon Street</Street>
+			<City>Boston</City>
+			<State>MA</State>
+			<Zip>02108</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.3">
+		<Name>InterContinental</Name>
+		<Phone>214-555-8272</Phone>
+		<Address NearestAirport="DFW">
+			<Number>600</Number>
+			<Street>Main Street</Street>
+			<City>Dallas</City>
+			<State>TX</State>
+			<Zip>75201</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.0">
+		<Name>Omni Hotel</Name>
+		<Phone>303-555-2222</Phone>
+		<Address NearestAirport="Denver Intl">
+			<Number>700</Number>
+			<Street>Colfax Avenue</Street>
+			<City>Denver</City>
+			<State>CO</State>
+			<Zip>80202</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.7">
+		<Name>Best Western</Name>
+		<Phone>702-555-3333</Phone>
+		<Address>
+			<Number>800</Number>
+			<Street>Las Vegas Blvd</Street>
+			<City>Las Vegas</City>
+			<State>NV</State>
+			<Zip>89109</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.4">
+		<Name>Four Seasons</Name>
+		<Phone>206-555-4444</Phone>
+		<Phone>206-555-5555</Phone>
+		<Address NearestAirport="SEA">
+			<Number>900</Number>
+			<Street>Pine Street</Street>
+			<City>Seattle</City>
+			<State>WA</State>
+			<Zip>98101</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
